@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044128081289",
+    "firebase_url": "https://login-ade90.firebaseio.com",
+    "project_id": "login-ade90",
+    "storage_bucket": "login-ade90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044128081289:android:7738fe742be9f442",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044128081289-u7p4t2kfar83p2qakf2u83spmg9pfdcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "134a5d0959093da89d67d90c3b573dd41ef4df66"
+          }
+        },
+        {
+          "client_id": "1044128081289-t6neviqlp9t3h0h4och3s9fgah9uvrfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwK_ukhFR-spEoJ5KddYjPJyNYM0IAg7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044128081289-t6neviqlp9t3h0h4och3s9fgah9uvrfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
